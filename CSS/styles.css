@@ -1,0 +1,84 @@
+body{
+	background-color:#e3f2fd;
+}
+.formdown{
+	padding-top:20px;
+}
+.carosil1{
+	background-color:white;
+	padding :50px;
+	margin :30 px;
+}
+.btncolour{
+	background-color:black;
+	
+}
+#signup{
+	padding-top:150px;
+	margin:auto;
+	width:40%;
+	
+}
+.center{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  padding-bottom:30px;
+}
+.SignupF{
+	background-color:white;
+	padding:35px;
+	border-radius:5px;
+	Margin-bottom:30px;
+}
+
+#sutext{
+	font-family: 'Montserrat', sans-serif;
+	font-size:1.3rem;
+	color:grey;
+	padding-bottom:20px;
+
+}
+#servicesp{
+	
+	background-color:White;
+	padding-left:100px;
+	padding-top:30px;
+	padding-bottom:50px;
+	
+}
+
+.defnpc{
+	color:#005086;
+	font-size:1.2rem;
+}
+.schlsize{
+	
+	width:30%
+	
+
+}
+#footer1{
+	color:white;
+	text-align:center;
+	font-family: 'Montserrat', sans-serif;
+	font-weight:Bold;
+	margin:auto;
+	width:50%;
+	padding-top:30px;
+	padding-bottom:30px;
+	
+}
+#footer1 img{
+	width:25px;
+	height:25px;
+	
+	
+}
+.img1{
+	height:200px;
+	position:relative;
+	left:400px;
+	width:250px;
+}
